@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Ropasci project
+
+This personal project is currently in development, the principal objetive is to create an application using web socket to play Rock, Paper and Scissor, and also have a chat to talk with the players you are playing with. At this moment, we don't have the back-end yet, keep your eyes on it 'cause we are going to release it (if everything goes just fine).
+
 ## Available Scripts
 
 In the project directory, you can run:
