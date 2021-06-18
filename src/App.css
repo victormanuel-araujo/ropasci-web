@@ -1,0 +1,12 @@
+html {
+	--background: #18181b;
+	--border-base-color: #ffffff1a;
+	--color-background-input: #ffffff33;
+}
+
+main {
+	position: relative;
+	width: 100vw;
+	height: 100vh;
+	background-color: var(--background);
+}

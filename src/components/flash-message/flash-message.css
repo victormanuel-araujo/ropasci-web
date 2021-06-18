@@ -1,0 +1,30 @@
+.flash-message-wrapper {
+	margin-left: 16px;
+	max-height: 80px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.flash-message-wrapper > div.showing {
+	top: 16px;
+}
+
+.flash-message-wrapper > div {
+	top: -96px;
+	position: absolute;
+	max-width: 540px;
+	background-color: darkgrey;
+	color: white;
+	padding: 24px 48px;
+	border-radius: 4px;
+	transition: 0.5s all;
+}
+
+.flash-message-wrapper div.danger {
+	background-color: red;
+}
+
+.flash-message-wrapper > div.success {
+	background-color: green;
+}
